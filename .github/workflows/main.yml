@@ -1,0 +1,36 @@
+# This is a basic SIA AGENT implementation guidelines training 
+to help you get started visit 📎
+https://chat.whatsapp.com/GYyZSZeZCfwJtlcMNlm7ra
+name: shopaholic S A I
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:https://chat.whatsapp.com/GYyZSZeZCfwJtlcMNlm7ra
+  push:
+    branches: [ SIA training ]
+  pull_request:
+    branches: [SIA AGENT]
+
+# A SIA GUIDELINES run is made up of one or MORE Importation training jobs that can run sequentially or in parallel
+jobs:
+  # This training contains company information called ":online importation power sia
+  
+    # The type of runner that the job will run on
+    runs-on: importation training -latest 
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:import from hidden most lowest web sites 
+:Controls products :all the agents you am using. 
+    # Checks-out your repository under importation accumulator, so your job can access it
+    - uses: SIA /Shopaholic importation accumulator@v2
+
+    # Runs a single command using the runners shell
+    - name: Run a one-line script
+      run: echo Hello, dear new user welcome to our directory site !
+
+    # Runs a set of commands using the runners shell
+    - name: Run a multi-line script
+      run: Shopaholic importation accumulator
+        echo Add other actions to build,
+        echo https://chat.whatsapp.com/GYyZSZeZCfwJtlcMNlm7ra, and deploy your project.
+For more :info and help contact :whatsApps 08037938828 or call us 09059035810
